@@ -526,10 +526,10 @@ table tfoot {
   color: #00aced;
 }
 
-.social-link.fa-facebook-square{
+.social-link.fa-facebook-square:hover{
   color: #3c5a9a;
 }
 
-.social-link.fa-google-plus-square{
+.social-link.fa-google-plus-square:hover{
   color: #d34836;
 }
